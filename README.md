@@ -26,7 +26,7 @@ Denoising Diffusion Probabilistic Models are a class of generative models that l
 ├── training.py              # Script for training the DDPM
 ├── sampling.py              # Script for generating images
 ├── README.md                
-└── requirements.txt         # (Recommended: Add a requirements file)
+└── requirements.txt         
 ```
 # USAGE
 * Create a new conda environment with python 3.10 then run below commands
